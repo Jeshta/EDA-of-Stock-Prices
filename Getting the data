@@ -1,0 +1,5 @@
+In this data project we will focus on exploratory data analysis of stock prices. 
+We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
+we will be using pandas to read data from Google finance using pandas!
+Pandas datareader allows you to read stock information directly from the internet.(pip install pandas-datareader)
+
